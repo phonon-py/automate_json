@@ -1,0 +1,23 @@
+[
+    {
+        "id":{
+            "M_CD":1000,
+            "UP_TIME":0
+        },
+        "sensor":{"POWER":948,
+            "TEMP":250
+        }
+    },
+    {
+        "id":{
+            "M_CD":1000,
+            "UP_TIME":1
+        },
+        "sensor":{"POWER":945,
+            "TEMP":251
+        },
+        "code":{
+                "ERR_CD":1
+        }
+    }
+]
